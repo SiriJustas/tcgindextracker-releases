@@ -19,3 +19,22 @@ Start from:
 ```text
 https://github.com/SiriJustas/tcgindextracker-releases/releases/download/pokemon-current/data-manifest.json
 ```
+
+<!-- tcgindex:mtg:start -->
+## MTG Latest Publish
+
+- Game: mtg
+- Valuation date: 2026-07-01
+- Current release: mtg-current
+- History releases: mtg-history-2026
+- Manifest asset count: 8
+- Data config hash: f650c862ed7345cdc066287ea243971ce9876a4a2274846068272192038a901f
+- Publish input hash: b4ea8e4d5d316a27bf357cb425663c89debe83436926004907c7819e74bd0c52
+
+Start from:
+
+```text
+https://github.com/SiriJustas/tcgindextracker-releases/releases/download/mtg-current/data-manifest.json
+```
+
+<!-- tcgindex:mtg:end -->
