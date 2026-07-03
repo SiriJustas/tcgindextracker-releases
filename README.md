@@ -24,12 +24,12 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/pokemon
 ## MTG Latest Publish
 
 - Game: mtg
-- Valuation date: 2026-07-02
+- Valuation date: 2026-07-03
 - Current release: mtg-current
 - History releases: mtg-history-2026
 - Manifest asset count: 8
 - Data config hash: f650c862ed7345cdc066287ea243971ce9876a4a2274846068272192038a901f
-- Publish input hash: b78730f900187ff9ebd570801538b700e29cd35ef2800ac891c8d646e6e2c01b
+- Publish input hash: a2f50a2e89f15d8aa8788bbea57b6a55f21a662f78452715808139dbe0babc82
 
 Start from:
 
