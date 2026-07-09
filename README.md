@@ -43,3 +43,22 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/pokemon
 ```
 
 <!-- tcgindex:pokemon:end -->
+
+<!-- tcgindex:yugioh:start -->
+## Yu-Gi-Oh! Latest Publish
+
+- Game: yugioh
+- Valuation date: 2026-07-09
+- Current release: yugioh-current
+- History releases: yugioh-history-2026
+- Manifest asset count: 8
+- Data config hash: f673a819563c63386f86b80fe38d08d694af9fd59708eaa802c72c48a9ad2e7e
+- Publish input hash: 42d685f36ca80f4235328152daa0ada808d69cb64fdaec166c6e643fe4bfde27
+
+Start from:
+
+```text
+https://github.com/SiriJustas/tcgindextracker-releases/releases/download/yugioh-current/data-manifest.json
+```
+
+<!-- tcgindex:yugioh:end -->
