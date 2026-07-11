@@ -52,8 +52,8 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/pokemon
 - Current release: yugioh-current
 - History releases: yugioh-history-2026
 - Manifest asset count: 8
-- Data config hash: f673a819563c63386f86b80fe38d08d694af9fd59708eaa802c72c48a9ad2e7e
-- Publish input hash: 1b6b45d0faf383923d46cf0574eff5da7ad039c1288541069b177bd0d547d671
+- Data config hash: 67b7c1d3fcaed5b2d4c0aa3b3a1e93ca49b6e8988369e3edfa945a98b15f8286
+- Publish input hash: 84add3945490285a7e7e66de406eaa6ea0ffa0f5386af4ed530aff90652da85c
 
 Start from:
 
