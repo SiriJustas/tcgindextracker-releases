@@ -29,12 +29,12 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/mtg-cur
 ## Pokemon Latest Publish
 
 - Game: pokemon
-- Valuation date: 2026-07-11
+- Valuation date: 2026-07-12
 - Current release: pokemon-current
 - History releases: pokemon-history-2026
 - Manifest asset count: 8
-- Data config hash: 292bef1ecb23718e27ec71b815c403609be4d7e07ebe157c84bcd1b5682aad1e
-- Publish input hash: abca5544c3642fa993a504f4df5cd2321282d0566e2a4cb3f99087153ea6e156
+- Data config hash: 9feb652d27666d070b0c9f5c6e47769ebd364a8d1bf25d19a504b132a3cfbb77
+- Publish input hash: 70132ae00ddad1ed9bb9945c452cc2f5a007ed283805b40cf7b3e7d6a3d4bcf4
 
 Start from:
 
