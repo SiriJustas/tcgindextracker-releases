@@ -34,7 +34,7 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/mtg-cur
 - History releases: pokemon-history-2026
 - Manifest asset count: 8
 - Data config hash: 9feb652d27666d070b0c9f5c6e47769ebd364a8d1bf25d19a504b132a3cfbb77
-- Publish input hash: 474164c97c674b58e4276f9af4efe5506efee211edce80fd9fd22f5ebc070bfd
+- Publish input hash: e4ddaa083381a74184d946b5fe909b8a7af1a8e897509b032d0d27085ce40a2e
 
 Start from:
 
