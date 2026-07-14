@@ -72,7 +72,7 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/yugioh-
 - History releases: onepiece-history-2026
 - Manifest asset count: 8
 - Data config hash: 977b7d0dde16e6a16f4272a16f991b01d7f86ad1d945a26bd7499bf322194aa4
-- Publish input hash: 13ba93d35c0cbf21c57215d93a7a6fc79bfae6b87517fffadc0ea06ce9a35110
+- Publish input hash: 3e0e09aab96ac75ab2addbea1a0ce9b3fde0c334a1d45cd16b59d8587ba583cc
 
 Start from:
 
