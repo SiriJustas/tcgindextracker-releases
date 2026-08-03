@@ -67,12 +67,12 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/yugioh-
 ## One Piece Latest Publish
 
 - Game: onepiece
-- Valuation date: 2026-08-02
+- Valuation date: 2026-08-03
 - Current release: onepiece-current
 - History releases: onepiece-history-2026
 - Manifest asset count: 9
-- Data config hash: aa2321aca44b64e7d1798573122e957d1ff80f35d8bdc8d06da27d56c4d54f2f
-- Publish input hash: 12d6524e0371e7150eef70c307efa6e597300214282ce8b21ede1e2255e32144
+- Data config hash: db9bdf3a72f3a666d8f8604cac15cb54fdc2187a984188e0eed926ca7aa37989
+- Publish input hash: 1d5d667665d597d9f214ad9838e25137fb5f8ec2dcdecad95cbfe62f2133c769
 
 Start from:
 
