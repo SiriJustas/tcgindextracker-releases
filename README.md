@@ -10,12 +10,12 @@ If you like my work, you can ☕ [buy me a coffee](https://ko-fi.com/sirijus).
 ## MTG Latest Publish
 
 - Game: mtg
-- Valuation date: 2026-08-12
+- Valuation date: 2026-08-13
 - Current release: mtg-current
 - History releases: mtg-history-2026
 - Manifest asset count: 9
-- Data config hash: 5e70aeffad017a86209f81630644119b729a048a8c44c88ae071507e6b4a3385
-- Publish input hash: 61d8c71d2a20b82418bc72c8c795f975d5fbd7d0b300a5dd58778ef6b91f4399
+- Data config hash: 5c933b6ba519232e4ef5a4787b4f196dfb2188882ffa0a5c00f72651aa7e961c
+- Publish input hash: 4455bb037b938958c5dc737cea40da10ff06fa25014b42c4647c86c17588948d
 
 Start from:
 
