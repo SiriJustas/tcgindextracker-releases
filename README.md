@@ -48,12 +48,12 @@ https://github.com/SiriJustas/tcgindextracker-releases/releases/download/pokemon
 ## Yu-Gi-Oh! Latest Publish
 
 - Game: yugioh
-- Valuation date: 2026-11-16
+- Valuation date: 2026-11-17
 - Current release: yugioh-current
 - History releases: yugioh-history-2026
 - Manifest asset count: 18
 - Data config hash: 04cb9ea90d9c45a6202f09eecdf8bc42209f3a42e3697ad8c566f4431c3c9805
-- Publish input hash: 7fff6f08b7fd0d0c08a4a7830957ab84dfa90138720560287996922f803c849e
+- Publish input hash: 4ad12c6e8ba3891e2e12a0e3590bf12b69542f4b87ecbea64afe10e11d457ab3
 
 Start from:
 
